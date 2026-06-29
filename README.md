@@ -42,13 +42,6 @@ Solve DSA problems regularly.
 Improve coding efficiency.
 Learn multiple approaches for the same problem.
 Build strong foundations in algorithms and data structures.
-💻 Platforms for Practice
-LeetCode
-GeeksforGeeks
-CodeStudio
-HackerRank
-CodeChef
-📈 Progress
 
 This repository is continuously updated with new problems and optimized solutions.
 
