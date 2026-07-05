@@ -2,17 +2,17 @@
 
 📚 DSA Practice Repository
 
-Welcome to the DSA Practice Repository! This repository contains solutions to various Data Structures and Algorithms (DSA) problems solved for coding interview preparation and competitive programming.
+Welcome to the DSA Practice Repository! This repository contains solutions to various Data Structures and Algorithms (DSA) problems solved for coding interview preparation and competitive programming
 
 
 🚀 About
 
 This repository is created to:
 
-Strengthen problem-solving skills.
-Practice core Data Structures and Algorithms concepts.
-Prepare for coding interviews and placement tests.
-Track daily DSA progress.
+Strengthen problem-solving skills
+Practice core Data Structures and Algorithms concepts
+Prepare for coding interviews and placement tests
+Track daily DSA progress
 
 
 📌 Topics Covered
